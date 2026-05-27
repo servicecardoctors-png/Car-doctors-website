@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#1b1b1f"/><stop offset="1" stop-color="#8b0000"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-opacity=".35"/></filter></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="980" cy="120" r="220" fill="#ef4444" opacity=".18"/>
+<rect x="96" y="190" width="1008" height="430" rx="32" fill="#111827" opacity=".88" filter="url(#s)"/>
+<rect x="150" y="250" width="260" height="320" rx="18" fill="#202833"/>
+<rect x="470" y="250" width="260" height="320" rx="18" fill="#202833"/>
+<rect x="790" y="250" width="260" height="320" rx="18" fill="#202833"/>
+<rect x="173" y="284" width="214" height="170" rx="12" fill="#2f3a47"/>
+<rect x="493" y="284" width="214" height="170" rx="12" fill="#2f3a47"/>
+<rect x="813" y="284" width="214" height="170" rx="12" fill="#2f3a47"/>
+<path d="M265 505h670c32 0 58 26 58 58v26H207v-26c0-32 26-58 58-58Z" fill="#ef4444"/>
+<path d="M337 459h526l72 46H265l72-46Z" fill="#b91c1c"/>
+<circle cx="360" cy="592" r="54" fill="#111827"/><circle cx="360" cy="592" r="25" fill="#9ca3af"/>
+<circle cx="840" cy="592" r="54" fill="#111827"/><circle cx="840" cy="592" r="25" fill="#9ca3af"/>
+<rect x="502" y="532" width="198" height="24" rx="12" fill="#fecaca" opacity=".9"/>
+<text x="600" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#fff">CAR DOCTORS</text>
+<text x="600" y="705" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#fff">Auto Repair • Body Work • Safety Certificates</text>
+</svg>
