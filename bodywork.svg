@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560"><rect width="800" height="560" rx="34" fill="#0f172a"/><circle cx="640" cy="120" r="150" fill="#ef4444" opacity=".2"/><path d="M160 330c12-70 80-126 165-126h150c85 0 153 56 165 126h30c26 0 48 22 48 48v42H82v-42c0-26 22-48 48-48h30z" fill="#ef4444"/><path d="M268 246h264l55 84H213l55-84z" fill="#b91c1c"/><circle cx="220" cy="420" r="58" fill="#020617"/><circle cx="220" cy="420" r="26" fill="#cbd5e1"/><circle cx="580" cy="420" r="58" fill="#020617"/><circle cx="580" cy="420" r="26" fill="#cbd5e1"/><path d="M400 90l28 58 64 8-46 45 12 63-58-30-58 30 12-63-46-45 64-8 28-58z" fill="#fff"/><text x="400" y="515" font-family="Arial" font-size="42" font-weight="800" text-anchor="middle" fill="#fff">Body Work & Repairs</text></svg>
+<svg width="1000" height="560" viewBox="0 0 1000 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="560" rx="36" fill="#111827"/>
+<circle cx="826" cy="111" r="150" fill="#ef4444" opacity=".11"/>
+<circle cx="148" cy="436" r="170" fill="#ef4444" opacity=".09"/>
+<path d="M170 350c24-70 90-116 186-130 46-66 98-94 164-85 99 13 157 76 194 171 55 14 89 42 100 76 12 38-14 72-54 72H222c-42 0-65-34-52-104Z" fill="#ef4444"/>
+<path d="M301 248h315c39 7 68 32 91 73H242c15-35 34-58 59-73Z" fill="#020617"/>
+<path d="M324 267h113l-38 54H272c12-25 28-44 52-54ZM462 267h113c35 4 62 24 82 54H425l37-54Z" fill="#1f2937"/>
+<circle cx="315" cy="453" r="58" fill="#020617"/><circle cx="315" cy="453" r="29" fill="#d1d5db"/>
+<circle cx="670" cy="453" r="58" fill="#020617"/><circle cx="670" cy="453" r="29" fill="#d1d5db"/>
+<path d="M771 235l36-36 20 20-36 36 34 34-20 20-34-34-34 34-20-20 34-34-36-36 20-20 36 36Z" fill="#fca5a5"/>
+<text x="80" y="105" font-family="Arial Black, Arial" font-size="42" fill="white">Body Work & Paint Repairs</text>
+<text x="82" y="148" font-family="Arial" font-size="24" fill="#d1d5db">Bumper repair • Accident damage • Insurance work</text>
+</svg>

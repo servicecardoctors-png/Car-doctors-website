@@ -1,0 +1,20 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#ef4444"/><stop offset="1" stop-color="#7f1d1d"/></linearGradient><filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="28" stdDeviation="24" flood-color="#000" flood-opacity=".45"/></filter></defs>
+<rect width="900" height="620" rx="42" fill="#111827"/>
+<circle cx="747" cy="99" r="170" fill="#ef4444" opacity=".12"/>
+<circle cx="122" cy="502" r="190" fill="#ef4444" opacity=".09"/>
+<g filter="url(#s)">
+<path d="M157 378c22-79 72-131 164-154 46-78 104-114 185-104 103 13 164 74 202 180 47 16 77 44 87 78 12 39-15 77-56 77H214c-44 0-69-37-57-77Z" fill="url(#g)"/>
+<path d="M276 252h253c51 0 93 28 119 83H221c13-36 31-62 55-83Z" fill="#1f2937"/>
+<path d="M301 270h100l-33 65H249c12-30 28-50 52-65ZM426 270h100c33 7 58 27 76 65H392l34-65Z" fill="#020617" opacity=".8"/>
+<path d="M186 378h595c6 0 11 5 11 11v25c0 23-19 42-42 42H217c-23 0-42-19-42-42v-25c0-6 5-11 11-11Z" fill="#991b1b"/>
+<circle cx="304" cy="451" r="58" fill="#020617"/><circle cx="304" cy="451" r="29" fill="#9ca3af"/><circle cx="304" cy="451" r="11" fill="#111827"/>
+<circle cx="656" cy="451" r="58" fill="#020617"/><circle cx="656" cy="451" r="29" fill="#9ca3af"/><circle cx="656" cy="451" r="11" fill="#111827"/>
+<path d="M168 376h85l-19 33h-75l9-33ZM700 376h92l6 31h-80l-18-31Z" fill="#fecaca" opacity=".75"/>
+</g>
+<rect x="58" y="63" width="288" height="92" rx="24" fill="#020617" opacity=".85"/>
+<text x="84" y="102" font-family="Arial Black, Arial" font-size="22" fill="white">Open 8 AM – 11 PM</text>
+<text x="84" y="132" font-family="Arial" font-size="19" fill="#d1d5db">120 Orenda Rd, Brampton</text>
+<rect x="615" y="74" width="220" height="64" rx="18" fill="#ef4444"/>
+<text x="644" y="115" font-family="Arial Black, Arial" font-size="24" fill="white">$79.99 Safety</text>
+</svg>
