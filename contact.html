@@ -1,11 +1,53 @@
-
 <!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="style.css">
-<title>Contact</title>
+<title>Contact | Car Doctors Brampton</title>
+
+<style>
+.form-box{
+background:white;
+padding:30px;
+border-radius:12px;
+max-width:700px;
+margin:auto;
+box-shadow:0 2px 10px rgba(0,0,0,.1);
+}
+
+.form-box input,
+.form-box textarea{
+width:100%;
+padding:12px;
+margin-top:10px;
+margin-bottom:20px;
+border:1px solid #ccc;
+border-radius:8px;
+font-size:16px;
+}
+
+.form-box button,
+.contact-btn{
+background:#c40000;
+color:white;
+padding:14px 24px;
+border:none;
+border-radius:8px;
+font-size:16px;
+cursor:pointer;
+text-decoration:none;
+display:inline-block;
+margin-right:10px;
+margin-top:10px;
+}
+
+.quick-contact{
+margin-bottom:30px;
+text-align:center;
+}
+</style>
+
 </head>
 <body>
 
@@ -22,15 +64,38 @@
 <a href="contact.html">Contact</a>
 </nav>
 
-
 <div class="container">
+
 <h1>Contact Us</h1>
-<p><strong>Address:</strong> 120 Orenda Road Unit 2, Brampton</p>
-<p><strong>Phone:</strong> 647-365-0987</p>
-<p><strong>Hours:</strong> 8 AM - 11 PM</p>
-<a class="btn" href="tel:6473650987">Call Now</a>
+
+<div class="quick-contact">
+<a class="contact-btn" href="tel:6473650987">📞 Call Us</a>
+<a class="contact-btn" href="https://wa.me/16473650987" target="_blank">💬 WhatsApp Us</a>
 </div>
 
+<div class="form-box">
+
+<form action="mailto:servicecardoctors@gmail.com" method="post" enctype="text/plain">
+
+<label>Name</label>
+<input type="text" name="Name" placeholder="Your Name" required>
+
+<label>Email</label>
+<input type="email" name="Email" placeholder="Your Email" required>
+
+<label>Phone Number</label>
+<input type="text" name="Phone" placeholder="Your Phone Number">
+
+<label>Message</label>
+<textarea name="Message" rows="6" placeholder="How can we help you?" required></textarea>
+
+<button type="submit">Send Inquiry</button>
+
+</form>
+
+</div>
+
+</div>
 
 <footer>
 <p>Car Doctors Brampton • Open 8 AM - 11 PM</p>
